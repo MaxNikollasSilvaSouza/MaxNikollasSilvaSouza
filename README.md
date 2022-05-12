@@ -1,8 +1,10 @@
 ### Olá! Eu sou Max Silva 🎩
 
-- 🔭 Trabalho com desenvolvimento FullStack
-- 👨‍💻 Aplicando Frameworks
-- 😄 Pronouns: Ele / He
+
+- 👨‍💻 TI Management 💻
+- 📊 Data Scientist 📈
+- 💻 Data Engineer 👨‍💻
+- ☁ Cloud Azure / AWS ☁
  
 #### Meus contatos:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/eduardo-carlos-95a5121ba/)](https://www.linkedin.com/in/max-nikollas-silva-souza/)
