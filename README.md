@@ -2,9 +2,7 @@
 
 
 - 👨‍💻 TI Management 💻
-- 📊 Data Sciece 📈
-- 💻 Data Engineering 👨‍💻
-- 💻 Developer 👨‍💻
+- 💻 Information Technology  👨‍💻
 - ☁ Azure / AWS ☁
  
 #### Meus contatos:
