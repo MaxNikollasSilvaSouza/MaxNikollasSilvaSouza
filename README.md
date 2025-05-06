@@ -3,7 +3,7 @@
 
 - 👨‍💻 TI Management 💻
 - 💻 Information Technology  👨‍💻
-- ☁ Azure / AWS ☁
+- ☁ Azure / AWS / Oracle ☁
  
 #### Meus contatos:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/eduardo-carlos-95a5121ba/)](https://www.linkedin.com/in/max-nikollas-silva-souza/)
